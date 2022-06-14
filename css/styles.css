@@ -59,3 +59,18 @@ header div h1 {
 header div p {
   text-align: center;
 }
+
+#submit-btn {
+  background-color: #202020;
+  border: #202020 solid 1px;
+  width: 10%;
+  height: 80px;
+}
+
+.space-above {
+  padding-top: 50px;
+}
+
+.reduce-width {
+  width: 80%;
+}
