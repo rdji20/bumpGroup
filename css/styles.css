@@ -15,20 +15,47 @@ body {
   margin-top: 150px;
   color: white;
   height: 200px;
-  margin-bottom: 600px;
+  margin-bottom: 300px;
 }
-.subjects {
+.subjects h1,
+header div h1 {
   font-family: "Poppins", sans-serif;
   font-weight: 900;
 }
 
 .subjects-img {
-  width: 400px;
+  width: 350px;
   align-self: center;
   position: relative;
   left: 100px;
 }
 
 .page-footer {
+  text-align: center;
+  padding-top: 100px;
+}
+
+p,
+li {
+  font-family: "Poppins", sans-serif;
+  font-weight: normal;
+}
+
+.active {
+  font-weight: 900;
+}
+
+header {
+  margin-top: 200px;
+}
+
+header div h1 {
+  color: white;
+  margin-top: 200px;
+  font-size: 100px;
+  text-align: center;
+}
+
+header div p {
   text-align: center;
 }
